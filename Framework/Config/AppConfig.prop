@@ -1,0 +1,12 @@
+# Possible values are Chrome, IE & FIREFOX
+BrowserName=chrome
+
+AppURL=https://www.facebook.com/
+
+ChromeDriverPath=Framework\\Drivers\\chromedriver.exe
+GeckoDriverPath=Framework\\Drivers\\geckodriver.exe
+IEDriverPath=Framework\\Drivers\\IEDriverServer.exe
+
+MINWAITTIME=5
+AVGWAITTTIME=25
+MAXWAITTIME=120
